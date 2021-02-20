@@ -1,0 +1,10 @@
+{
+    "_id": "602656cc9df13b17446d5540",
+    "startDate": "2021-02-12T10:22:04.207Z",
+    "userId": "6006bab3ad4b0f43d8c81647",
+    "subject": "Test Subject",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "importance": 3,
+    "image": "https://specials-images.forbesimg.com/imageserve/1204669807/960x0.jpg",
+    "isCompleted": false
+}
